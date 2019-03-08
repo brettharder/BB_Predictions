@@ -1,0 +1,590 @@
+artist,collaboration,country_tfidf_score,curse_flag,dirtiness_score,genre,hip_hop_tfidf_score,pop_tfidf_score,rock_tfidf_score,song,total_lyrics,unique_words,whiskey_flag,year
+Ed Sheeran,0,0.32,0,0,pop,0.36,0.36,0.24,Shape Of You,715,143,0,2017
+Luis Fonsi & Daddy Yankee Featuring Justin Bieber,1,0.08,0,0,pop,0.06,0.14,0.08,Despacito,515,187,0,2017
+Bruno Mars,0,0.3,1,1,pop,0.36,0.4,0.22,That's What I Like,565,136,0,2017
+Kendrick Lamar,0,0.42,1,8,hip-hop,0.46,0.36,0.22,HUMBLE.,638,200,0,2017
+The Chainsmokers & Coldplay,1,0.14,0,0,pop,0.12,0.18,0.1,Something Just Like This,341,81,0,2017
+Migos Featuring Lil Uzi Vert,1,0.4,1,6,hip-hop,0.52,0.4,0.26,Bad And Boujee,1246,347,0,2017
+The Chainsmokers Featuring Halsey,1,0.18,0,0,pop,0.14,0.18,0.12,Closer,412,103,0,2017
+Sam Hunt,0,0.2,0,0,country,0.22,0.24,0.16,Body Like A Back Road,307,108,0,2017
+Imagine Dragons,0,0.14,0,0,rock,0.18,0.24,0.16,Believer,419,131,0,2017
+Post Malone Featuring Quavo,1,0.32,1,4,hip-hop,0.36,0.3,0.16,Congratulations,542,175,0,2017
+James Arthur,0,0.4,0,0,pop,0.3,0.44,0.26,Say You Won't Let Go,386,159,0,2017
+"DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",1,0.48,1,2,hip-hop,0.54,0.48,0.38,I'm The One,1053,226,0,2017
+Lil Uzi Vert,0,0.38,1,2,hip-hop,0.4,0.38,0.2,XO TOUR Llif3,503,166,0,2017
+Future,0,0.2,1,3,hip-hop,0.22,0.14,0.12,Mask Off,378,159,0,2017
+French Montana Featuring Swae Lee,1,0.38,1,3,hip-hop,0.5,0.46,0.26,Unforgettable,559,171,0,2017
+Bruno Mars,0,0.34,1,2,pop,0.46,0.34,0.22,24K Magic,492,159,0,2017
+Zedd & Alessia Cara,1,0.16,0,0,pop,0.22,0.24,0.14,Stay,315,85,0,2017
+DJ Khaled Featuring Rihanna & Bryson Tiller,1,0.28,1,4,hip-hop,0.42,0.36,0.22,Wild Thoughts,512,172,0,2017
+Rae Sremmurd Featuring Gucci Mane,1,0.28,1,4,hip-hop,0.46,0.42,0.3,Black Beatles,610,237,0,2017
+The Weeknd Featuring Daft Punk,1,0.22,1,2,pop,0.34,0.26,0.22,Starboy,637,173,0,2017
+Khalid,0,0.28,0,0,hip-hop,0.28,0.36,0.2,Location,325,95,0,2017
+Charlie Puth,0,0.3,0,0,pop,0.22,0.36,0.26,Attention,524,92,0,2017
+Shawn Mendes,0,0.24,0,0,pop,0.26,0.32,0.26,There's Nothing Holdin' Me Back,360,100,0,2017
+Cardi B,0,0.48,1,6,hip-hop,0.64,0.5,0.3,Bodak Yellow,823,238,0,2017
+Childish Gambino,0,0.3,1,3,pop,0.32,0.32,0.16,Redbone,277,92,0,2017
+Zayn / Taylor Swift,1,0.28,0,0,pop,0.3,0.36,0.26,I Don't Wanna Live Forever,416,110,0,2017
+Kygo x Selena Gomez,1,0.2,0,0,pop,0.18,0.2,0.14,It Ain't Me,387,89,1,2017
+KYLE Featuring Lil Yachty,1,0.44,1,5,hip-hop,0.6,0.58,0.4,iSpy,784,279,0,2017
+Julia Michaels,0,0.26,1,1,pop,0.3,0.24,0.2,Issues,395,89,0,2017
+Alessia Cara,0,0.2,0,0,pop,0.14,0.28,0.22,Scars To Your Beautiful,513,122,0,2017
+Logic Featuring Alessia Cara & Khalid,1,0.34,1,1,hip-hop,0.38,0.42,0.26,1-800-273-8255,633,160,0,2017
+Niall Horan,0,0.3,0,0,pop,0.32,0.38,0.22,Slow Hands,283,80,0,2017
+Rihanna,0,0.28,0,0,pop,0.24,0.3,0.2,Love On The Brain,372,99,0,2017
+The Weeknd Featuring Daft Punk,1,0.3,0,0,pop,0.36,0.42,0.24,I Feel It Coming,559,90,0,2017
+Big Sean,0,0.28,1,7,hip-hop,0.52,0.36,0.24,Bounce Back,710,261,0,2017
+Liam Payne Featuring Quavo,1,0.42,0,0,pop,0.4,0.46,0.26,Strip That Down,754,172,0,2017
+Drake,0,0.26,1,1,hip-hop,0.34,0.34,0.2,Fake Love,487,92,0,2017
+Maroon 5 Featuring Kendrick Lamar,1,0.32,0,0,pop,0.32,0.38,0.26,Don't Wanna Know,614,116,0,2017
+Taylor Swift,0,0.26,0,0,pop,0.26,0.3,0.22,Look What You Made Me Do,586,113,0,2017
+Ed Sheeran,0,0.22,0,0,pop,0.18,0.24,0.18,Castle On The Hill,369,137,0,2017
+Machine Gun Kelly x Camila Cabello,1,0.4,0,0,hip-hop,0.38,0.48,0.24,Bad Things,703,154,0,2017
+The Chainsmokers,1,0.14,0,0,pop,0.14,0.18,0.1,Paris,441,90,0,2017
+Ariana Grande Featuring Nicki Minaj,1,0.38,1,1,pop,0.4,0.42,0.3,Side To Side,562,152,0,2017
+Clean Bandit Featuring Sean Paul & Anne-Marie,1,0.36,0,0,pop,0.36,0.44,0.32,Rockabye,711,179,0,2017
+Portugal. The Man,1,0.3,0,0,pop,0.32,0.4,0.28,Feel It Still,364,111,0,2017
+DJ Snake Featuring Justin Bieber,1,0.24,0,0,pop,0.22,0.3,0.2,Let Me Love You,375,77,0,2017
+Demi Lovato,0,0.28,1,1,pop,0.3,0.32,0.14,Sorry Not Sorry,528,110,0,2017
+21 Savage,0,0.26,1,9,hip-hop,0.44,0.24,0.14,Bank Account,783,200,0,2017
+Justin Timberlake,0,0.28,0,0,hip-hop,0.22,0.3,0.22,Can't Stop The Feeling!,565,107,0,2017
+J Balvin & Willy William Featuring Beyonce,1,0.04,0,0,pop,0.08,0.1,0.06,Mi Gente,282,118,0,2017
+Imagine Dragons,0,0.1,0,0,pop,0.1,0.14,0.06,Thunder,283,81,0,2017
+Migos,0,0.26,1,5,hip-hop,0.36,0.28,0.22,T-Shirt,607,226,0,2017
+Yo Gotti Featuring Nicki Minaj,1,0.3,1,7,hip-hop,0.56,0.48,0.3,Rake It Up,885,244,0,2017
+Shawn Mendes,0,0.18,0,0,pop,0.22,0.28,0.14,Mercy,357,99,0,2017
+Kodak Black,0,0.32,1,4,hip-hop,0.46,0.28,0.18,Tunnel Vision,642,134,0,2017
+Post Malone Featuring 21 Savage,1,0.22,1,1,hip-hop,0.32,0.22,0.14,rockstar,515,186,0,2017
+Brett Young,0,0.22,0,0,country,0.22,0.32,0.22,In Case You Didn't Know,296,87,0,2017
+twenty one pilots,0,0.16,0,0,pop,0.2,0.24,0.16,Heathens,374,119,0,2017
+Halsey,0,0.3,0,0,pop,0.3,0.34,0.18,Now Or Never,451,93,0,2017
+Amine,0,0.34,1,3,hip-hop,0.44,0.34,0.22,Caroline,526,146,0,2017
+Ayo & Teo,1,0.3,1,1,hip-hop,0.26,0.26,0.14,Rolex,639,136,0,2017
+Kendrick Lamar,0,0.26,1,6,hip-hop,0.38,0.38,0.28,DNA.,757,327,0,2017
+Zay Hilfigerrr & Zayion McCall,1,0.32,0,0,hip-hop,0.34,0.3,0.24,JuJu On That Beat (TZ Anthem),493,138,0,2017
+Rae Sremmurd,0,0.3,1,4,hip-hop,0.38,0.26,0.22,Swang,373,141,0,2017
+Drake,0,0.24,1,3,pop,0.26,0.26,0.12,Passionfruit,248,107,0,2017
+Kendrick Lamar Featuring Rihanna,1,0.42,1,5,hip-hop,0.5,0.46,0.26,LOYALTY.,611,207,0,2017
+Kesha,0,0.24,0,0,pop,0.28,0.38,0.26,Praying,396,165,0,2017
+Travis Scott,0,0.42,1,3,hip-hop,0.38,0.44,0.28,Goosebumps,577,192,0,2017
+Maroon 5 Featuring Future,1,0.32,1,1,pop,0.4,0.44,0.32,Cold,609,155,0,2017
+D.R.A.M. Featuring Lil Yachty,1,0.34,1,7,hip-hop,0.42,0.36,0.28,Broccoli,605,245,0,2017
+Calvin Harris Featuring Frank Ocean & Migos,1,0.3,1,2,pop,0.36,0.34,0.22,Slide,527,175,0,2017
+Kane Brown Featuring Lauren Alaina,1,0.28,0,0,country,0.2,0.28,0.2,What Ifs,413,106,0,2017
+Katy Perry Featuring Skip Marley,1,0.14,0,0,pop,0.1,0.12,0.08,Chained To The Rhythm,502,126,0,2017
+"Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean",1,0.4,0,0,pop,0.32,0.44,0.32,Feels,520,176,0,2017
+Jon Bellion,0,0.16,1,1,pop,0.2,0.22,0.2,All Time Low,310,78,0,2017
+Luke Combs,0,0.26,0,0,country,0.24,0.26,0.18,Hurricane,300,114,1,2017
+Sam Smith,0,0.24,0,0,pop,0.22,0.26,0.22,Too Good At Goodbyes,445,80,0,2017
+Khalid,0,0.16,0,0,pop,0.2,0.24,0.18,Young Dumb & Broke,291,75,0,2017
+Playboi Carti,0,0.22,1,5,hip-hop,0.38,0.24,0.18,Magnolia,477,150,0,2017
+SZA Featuring Travis Scott,1,0.4,1,3,hip-hop,0.5,0.5,0.36,Love Galore,568,195,0,2017
+A Boogie Wit da Hoodie Featuring Kodak Black,1,0.28,1,5,hip-hop,0.36,0.28,0.2,Drowning,623,171,0,2017
+Hailee Steinfeld & Grey Featuring Zedd,1,0.22,0,0,pop,0.24,0.3,0.12,Starving,368,73,0,2017
+Gucci Mane Featuring Drake,1,0.26,1,3,hip-hop,0.3,0.3,0.14,Both,480,177,0,2017
+P!nk,1,0.16,0,0,pop,0.2,0.22,0.18,What About Us?,309,88,0,2017
+Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign,1,0.22,1,3,hip-hop,0.32,0.3,0.2,Swalla,524,171,0,2017
+Migos Featuring Gucci Mane,1,0.38,1,6,hip-hop,0.54,0.42,0.26,Slippery,903,322,0,2017
+Harry Styles,0,0.22,0,0,pop,0.2,0.26,0.22,Sign Of The Times,383,91,0,2017
+Adele,0,0.24,0,0,pop,0.2,0.28,0.22,Water Under The Bridge,470,88,0,2017
+Miley Cyrus,0,0.24,0,0,pop,0.18,0.28,0.18,Malibu,288,138,0,2017
+Marian Hill,0,0.18,0,0,pop,0.22,0.2,0.16,Down,425,88,0,2017
+Cheat Codes Featuring Demi Lovato,1,0.2,0,0,pop,0.22,0.26,0.16,No Promises,288,71,0,2017
+Shawn Mendes,0,0.26,0,0,pop,0.32,0.34,0.26,Treat You Better,308,92,0,2017
+Gucci Mane Featuring Migos,1,0.32,1,5,hip-hop,0.44,0.36,0.26,I Get The Bag,928,278,0,2017
+Dustin Lynch,0,0.26,0,0,country,0.18,0.24,0.14,Small Town Boy,431,109,0,2017
+YFN Lucci Featuring PnB Rock,1,0.16,1,4,hip-hop,0.3,0.22,0.14,Everyday We Lit,597,121,0,2017
+Camila Cabello Featuring Young Thug,1,0.22,0,0,pop,0.22,0.28,0.1,Havana,477,125,0,2017
+Maroon 5 Featuring SZA,1,0.3,0,0,pop,0.32,0.34,0.24,What Lovers Do,452,86,0,2017
+Blackbear,0,0.3,1,4,pop,0.3,0.32,0.2,Do Re Mi,410,123,0,2017
+XXXTentacion,0,0.18,1,6,hip-hop,0.26,0.2,0.08,Look At Me,354,107,0,2017
+Keith Urban Featuring Carrie Underwood,1,0.28,0,0,pop,0.28,0.36,0.22,The Fighter,454,95,0,2017
+Justin Bieber,0,0.36,0,0,pop,0.36,0.4,0.3,Love Yourself,477,119,0,2016
+Justin Bieber,0,0.2,0,0,pop,0.24,0.28,0.22,Sorry,353,104,0,2016
+Drake Featuring WizKid & Kyla,1,0.34,0,0,pop,0.36,0.38,0.24,One Dance,437,120,0,2016
+Rihanna Featuring Drake,1,0.3,1,1,pop,0.32,0.46,0.28,Work,602,177,0,2016
+twenty one pilots,0,0.2,0,0,pop,0.22,0.22,0.1,Stressed Out,555,143,0,2016
+Desiigner,0,0.18,1,6,hip-hop,0.38,0.24,0.16,Panda,658,187,0,2016
+Adele,0,0.08,0,0,pop,0.14,0.2,0.16,Hello,397,119,0,2016
+The Chainsmokers Featuring Daya,1,0.12,0,0,pop,0.24,0.22,0.14,Don't Let Me Down,422,65,0,2016
+Justin Timberlake,0,0.28,0,0,hip-hop,0.22,0.3,0.22,Can't Stop The Feeling!,565,107,0,2016
+The Chainsmokers Featuring Halsey,1,0.18,0,0,pop,0.14,0.18,0.12,Closer,412,103,0,2016
+Sia Featuring Sean Paul,1,0.24,0,0,pop,0.24,0.3,0.22,Cheap Thrills,379,58,0,2016
+Lukas Graham,0,0.24,0,0,pop,0.28,0.28,0.24,7 Years,461,163,0,2016
+Rihanna,0,0.24,1,4,hip-hop,0.34,0.24,0.18,Needed Me,307,101,0,2016
+Flo Rida,0,0.28,0,0,hip-hop,0.28,0.32,0.22,My House,374,128,0,2016
+Mike Posner,0,0.26,1,1,pop,0.3,0.28,0.2,I Took A Pill In Ibiza,439,149,0,2016
+Fifth Harmony Featuring Ty Dolla $ign,1,0.36,0,0,pop,0.32,0.42,0.24,Work From Home,480,127,0,2016
+Calvin Harris Featuring Rihanna,1,0.12,0,0,pop,0.12,0.14,0.1,This Is What You Came For,255,49,0,2016
+DNCE,0,0.24,1,1,pop,0.28,0.32,0.24,Cake By The Ocean,587,118,0,2016
+G-Eazy x Bebe Rexha,1,0.34,1,2,hip-hop,0.48,0.48,0.3,"Me, Myself & I",813,201,0,2016
+twenty one pilots,0,0.18,0,0,rock,0.24,0.26,0.3,Ride,443,107,0,2016
+twenty one pilots,0,0.16,0,0,pop,0.2,0.24,0.16,Heathens,374,119,0,2016
+Zayn,0,0.08,1,1,pop,0.06,0.1,0.06,PILLOWTALK,360,81,0,2016
+Shawn Mendes,0,0.24,0,0,pop,0.24,0.26,0.2,Stitches,355,107,0,2016
+Drake,0,0.28,0,0,hip-hop,0.3,0.32,0.22,Hotline Bling,459,129,0,2016
+Major Lazer Featuring Justin Bieber & MO,1,0.24,0,0,pop,0.22,0.3,0.24,Cold Water,299,96,0,2016
+Adele,0,0.2,0,0,pop,0.14,0.2,0.16,Send My Love (To Your New Lover),451,86,0,2016
+The Chainsmokers Featuring Rozes,1,0.14,0,0,pop,0.14,0.24,0.1,Roses,247,80,0,2016
+Shawn Mendes,0,0.26,0,0,pop,0.32,0.34,0.26,Treat You Better,308,92,0,2016
+Drake Featuring Rihanna,1,0.38,1,1,pop,0.38,0.44,0.22,Too Good,582,160,0,2016
+Future Featuring The Weeknd,1,0.34,1,5,hip-hop,0.42,0.4,0.22,Low Life,843,218,0,2016
+Justin Bieber,0,0.28,0,0,pop,0.34,0.4,0.18,What Do You Mean?,473,96,0,2016
+The Weeknd,0,0.26,1,1,hip-hop,0.34,0.3,0.24,The Hills,519,136,0,2016
+P!nk,1,0.36,0,0,pop,0.3,0.38,0.3,Just Like Fire,531,130,0,2016
+D.R.A.M. Featuring Lil Yachty,1,0.34,1,7,hip-hop,0.42,0.36,0.28,Broccoli,605,245,0,2016
+Bryson Tiller,0,0.48,1,3,hip-hop,0.46,0.38,0.26,Don't,423,181,0,2016
+Ariana Grande,0,0.22,0,0,pop,0.2,0.24,0.14,Dangerous Woman,378,96,0,2016
+Drake & Future,1,0.26,1,2,hip-hop,0.46,0.38,0.18,Jumpman,512,212,0,2016
+gnash Featuring Olivia O'Brien,1,0.4,1,2,pop,0.44,0.48,0.32,I Hate U I Love U,635,187,0,2016
+Alessia Cara,0,0.36,0,0,pop,0.34,0.38,0.24,Here,514,183,0,2016
+Selena Gomez,0,0.18,1,1,pop,0.18,0.3,0.18,Same Old Love,356,83,0,2016
+Drake,0,0.32,1,1,hip-hop,0.38,0.48,0.2,Controlla,542,183,0,2016
+Meghan Trainor Featuring John Legend,1,0.28,0,0,pop,0.26,0.36,0.28,Like I'm Gonna Lose You,354,113,0,2016
+Charlie Puth,0,0.3,0,0,pop,0.26,0.34,0.26,One Call Away,290,85,0,2016
+James Bay,0,0.22,0,0,pop,0.22,0.3,0.26,Let It Go,324,118,0,2016
+Zara Larsson & MNEK,1,0.18,0,0,pop,0.18,0.22,0.18,Never Forget You,458,115,0,2016
+DJ Snake Featuring Justin Bieber,1,0.24,0,0,pop,0.22,0.3,0.2,Let Me Love You,375,77,0,2016
+Kent Jones,0,0.3,1,2,pop,0.38,0.34,0.22,Don't Mind,597,124,0,2016
+Florida Georgia Line,0,0.2,0,0,country,0.18,0.22,0.18,H.O.L.Y.,295,115,0,2016
+Charlie Puth Featuring Selena Gomez,1,0.28,0,0,pop,0.3,0.38,0.28,We Don't Talk Anymore,564,119,0,2016
+Ariana Grande,0,0.42,0,0,pop,0.36,0.44,0.26,Into You,494,107,0,2016
+Kiiara,0,0.2,0,0,pop,0.24,0.2,0.16,Gold,449,63,0,2016
+Bryson Tiller,0,0.32,1,2,hip-hop,0.48,0.38,0.22,Exchange,432,188,0,2016
+Fetty Wap Featuring Remy Boyz,1,0.2,1,2,hip-hop,0.36,0.24,0.14,679,271,132,0,2016
+Jeremih,0,0.26,1,1,hip-hop,0.34,0.32,0.28,Oui,443,106,0,2016
+Selena Gomez,0,0.22,0,0,pop,0.26,0.26,0.16,Hands To Myself,328,82,0,2016
+Kevin Gates,0,0.34,1,2,hip-hop,0.44,0.38,0.24,2 Phones,787,229,0,2016
+The Weeknd Featuring Daft Punk,1,0.22,1,2,pop,0.34,0.26,0.22,Starboy,637,173,0,2016
+DJ Khaled Featuring Drake,1,0.4,1,4,hip-hop,0.54,0.46,0.3,For Free,475,184,0,2016
+Flume Featuring Kai,1,0.24,1,1,pop,0.22,0.3,0.14,Never Be Like You,429,102,0,2016
+The Weeknd,1,0.22,0,0,hip-hop,0.22,0.26,0.18,In The Night,352,95,0,2016
+Meghan Trainor,0,0.14,0,0,pop,0.14,0.2,0.14,Me Too,365,85,0,2016
+Elle King,0,0.38,0,0,pop,0.28,0.32,0.24,Ex's & Oh's,380,105,0,2016
+Thomas Rhett,0,0.24,0,0,pop,0.26,0.28,0.16,Die A Happy Man,320,122,0,2016
+Post Malone,0,0.28,1,3,hip-hop,0.4,0.3,0.16,White Iverson,484,152,0,2016
+Nick Jonas Featuring Tove Lo,1,0.22,0,0,pop,0.26,0.28,0.16,Close,407,101,0,2016
+X Ambassadors,0,0.2,0,0,pop,0.14,0.18,0.16,Unsteady,186,42,0,2016
+"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",1,0.32,1,2,hip-hop,0.38,0.3,0.18,Sucker For Pain,696,243,0,2016
+Yo Gotti Featuring Nicki Minaj,1,0.2,1,5,hip-hop,0.34,0.22,0.16,Down In The DM,449,94,0,2016
+Tory Lanez,0,0.34,1,1,hip-hop,0.44,0.42,0.24,Luv,538,97,0,2016
+Beyonce,0,0.34,1,3,pop,0.34,0.32,0.26,Sorry,469,150,0,2016
+The Weeknd,1,0.18,0,0,pop,0.16,0.2,0.14,Can't Feel My Face,408,63,0,2016
+Coldplay,0,0.2,0,0,pop,0.18,0.26,0.16,Hymn For The Weekend,375,84,0,2016
+Tory Lanez,0,0.4,1,2,hip-hop,0.46,0.46,0.28,Say It,649,117,0,2016
+Travis Scott,0,0.38,1,4,hip-hop,0.5,0.34,0.24,Antidote,551,173,0,2016
+Ruth B,0,0.14,0,0,pop,0.18,0.16,0.12,Lost Boy,445,133,0,2016
+Ariana Grande Featuring Nicki Minaj,1,0.38,1,1,pop,0.4,0.42,0.3,Side To Side,562,152,0,2016
+Daya,0,0.28,0,0,pop,0.28,0.36,0.24,"Sit Still, Look Pretty",520,129,0,2016
+Taylor Swift,0,0.22,0,0,pop,0.18,0.28,0.2,Wildest Dreams,374,115,0,2016
+DJ Snake Featuring Bipolar Sunshine,1,0.1,0,0,pop,0.16,0.16,0.14,Middle,219,98,0,2016
+Ellie Goulding,0,0.26,0,0,pop,0.28,0.32,0.18,On My Mind,543,97,0,2016
+Drake Featuring The Throne,1,0.36,1,4,hip-hop,0.52,0.46,0.22,Pop Style,451,185,0,2016
+Adele,0,0.22,0,0,pop,0.18,0.26,0.26,When We Were Young,378,116,0,2016
+Daya,0,0.36,0,0,pop,0.3,0.42,0.24,Hide Away,354,102,0,2016
+Major Lazer & DJ Snake Featuring MO,1,0.12,0,0,pop,0.1,0.1,0.12,Lean On,240,80,0,2016
+Shawn Mendes & Camila Cabello,1,0.2,0,0,pop,0.26,0.38,0.24,I Know What You Did Last Summer,823,104,0,2016
+Silento,0,0.1,0,0,hip-hop,0.14,0.1,0.04,Watch Me (Whip / Nae Nae),486,40,0,2016
+Chris Brown,0,0.36,1,1,hip-hop,0.34,0.4,0.24,Back To Sleep,402,113,0,2016
+Usher Featuring Young Thug,1,0.4,1,5,hip-hop,0.46,0.32,0.24,No Limit,605,187,0,2016
+O.T. Genasis Featuring Young Dolph,1,0.28,1,5,pop,0.48,0.38,0.22,Cut It,617,186,0,2016
+Kevin Gates,0,0.26,1,1,hip-hop,0.4,0.28,0.2,Really Really,646,242,0,2016
+Fifth Harmony Featuring Fetty Wap,1,0.32,1,1,pop,0.34,0.38,0.22,All In My Head (Flex),488,107,0,2016
+Hailee Steinfeld & Grey Featuring Zedd,1,0.22,0,0,pop,0.24,0.3,0.12,Starving,368,73,0,2016
+Coldplay,0,0.22,0,0,pop,0.16,0.34,0.12,Adventure Of A Lifetime,256,82,0,2016
+Tim McGraw,0,0.22,0,0,pop,0.22,0.3,0.2,Humble And Kind,304,125,0,2016
+Future,0,0.14,1,4,hip-hop,0.3,0.14,0.12,Wicked,373,132,0,2016
+Desiigner,0,0.18,1,4,hip-hop,0.28,0.16,0.08,Tiimmy Turner,726,115,0,2016
+Wiz Khalifa Featuring Charlie Puth,1,0.3,0,0,hip-hop,0.24,0.34,0.24,See You Again,510,154,0,2016
+One Direction,0,0.28,0,0,pop,0.32,0.38,0.24,Perfect,468,115,0,2016
+Mark Ronson Featuring Bruno Mars,1,0.38,1,1,pop,0.4,0.38,0.2,Uptown Funk,673,146,0,2015
+Ed Sheeran,0,0.3,0,0,pop,0.24,0.34,0.26,Thinking Out Loud,344,127,0,2015
+Wiz Khalifa Featuring Charlie Puth,1,0.3,0,0,hip-hop,0.24,0.34,0.24,See You Again,510,154,0,2015
+Fetty Wap,0,0.36,1,3,hip-hop,0.42,0.34,0.24,Trap Queen,617,188,0,2015
+Maroon 5,0,0.46,1,1,pop,0.42,0.48,0.2,Sugar,503,109,0,2015
+WALK THE MOON,0,0.16,0,0,pop,0.18,0.2,0.1,Shut Up And Dance,366,83,0,2015
+Taylor Swift,0,0.44,0,0,pop,0.44,0.52,0.36,Blank Space,558,178,0,2015
+Silento,0,0.1,0,0,hip-hop,0.14,0.1,0.04,Watch Me (Whip / Nae Nae),486,40,0,2015
+The Weeknd,1,0.24,1,1,pop,0.22,0.28,0.14,Earned It,259,79,0,2015
+The Weeknd,1,0.26,1,1,hip-hop,0.34,0.3,0.24,The Hills,519,136,0,2015
+OMI,0,0.34,0,0,pop,0.36,0.42,0.26,Cheerleader,410,142,0,2015
+The Weeknd,1,0.18,0,0,pop,0.16,0.2,0.14,Can't Feel My Face,408,63,0,2015
+Ellie Goulding,0,0.26,0,0,pop,0.22,0.3,0.22,Love Me Like You Do,399,89,0,2015
+Hozier,0,0.18,0,0,pop,0.2,0.26,0.16,Take Me To Church,341,155,0,2015
+Taylor Swift Featuring Kendrick Lamar,1,0.26,0,0,pop,0.34,0.36,0.26,Bad Blood,514,116,0,2015
+Major Lazer & DJ Snake Featuring MO,1,0.12,0,0,pop,0.1,0.1,0.12,Lean On,240,80,0,2015
+Jason Derulo,0,0.2,0,0,pop,0.2,0.2,0.08,Want To Want Me,427,80,0,2015
+Taylor Swift,0,0.3,0,0,pop,0.3,0.4,0.28,Shake It Off,635,113,0,2015
+Rachel Platten,0,0.22,0,0,pop,0.22,0.3,0.22,Fight Song,362,108,0,2015
+Fetty Wap Featuring Remy Boyz,1,0.2,1,2,hip-hop,0.36,0.24,0.14,679,271,132,0,2015
+Meghan Trainor,0,0.3,0,0,pop,0.34,0.36,0.24,Lips Are Movin,512,118,0,2015
+Fifth Harmony Featuring Kid Ink,1,0.28,0,0,pop,0.34,0.36,0.24,Worth It,670,109,0,2015
+Omarion Featuring Chris Brown & Jhene Aiko,1,0.44,1,3,hip-hop,0.5,0.36,0.24,Post To Be,707,178,0,2015
+Andy Grammer,0,0.22,1,1,pop,0.22,0.26,0.18,"Honey, I'm Good",436,98,0,2015
+Sam Smith,0,0.16,0,0,pop,0.18,0.24,0.18,I'm Not The Only One,279,92,0,2015
+Selena Gomez Featuring A$AP Rocky,1,0.4,1,2,pop,0.42,0.44,0.26,Good For You,512,147,0,2015
+Meghan Trainor,0,0.34,1,1,pop,0.38,0.4,0.22,All About That Bass,531,116,0,2015
+Taylor Swift,0,0.26,0,0,pop,0.28,0.32,0.26,Style,382,122,0,2015
+Drake,0,0.28,0,0,hip-hop,0.3,0.32,0.22,Hotline Bling,459,129,0,2015
+"David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack",1,0.4,1,2,pop,0.46,0.4,0.26,Hey Mama,552,142,0,2015
+Flo Rida Featuring Sage The Gemini & Lookas,1,0.22,1,1,hip-hop,0.34,0.22,0.16,G.D.F.R.,478,156,0,2015
+Justin Bieber,0,0.28,0,0,pop,0.34,0.4,0.18,What Do You Mean?,473,96,0,2015
+Ed Sheeran,0,0.2,0,0,pop,0.16,0.24,0.18,Photograph,312,119,0,2015
+Adele,0,0.08,0,0,pop,0.14,0.2,0.16,Hello,397,119,0,2015
+Shawn Mendes,0,0.24,0,0,pop,0.24,0.26,0.2,Stitches,355,107,0,2015
+Tove Lo,0,0.32,1,1,pop,0.28,0.36,0.22,Talking Body,485,97,0,2015
+Nick Jonas,0,0.26,0,0,pop,0.22,0.32,0.18,Jealous,379,95,0,2015
+Pitbull & Ne-Yo,1,0.44,1,1,pop,0.42,0.48,0.3,Time Of Our Lives,548,192,0,2015
+R. City Featuring Adam Levine,1,0.32,0,0,pop,0.38,0.42,0.22,Locked Away,607,123,0,2015
+Natalie La Rose Featuring Jeremih,1,0.32,0,0,hip-hop,0.36,0.44,0.3,Somebody,503,88,0,2015
+Rihanna & Kanye West & Paul McCartney,1,0.24,0,0,pop,0.34,0.34,0.2,FourFiveSeconds,341,126,0,2015
+Fall Out Boy,0,0.14,0,0,rock,0.14,0.22,0.32,Centuries,462,118,0,2015
+Fetty Wap Featuring Monty,1,0.32,1,6,hip-hop,0.52,0.36,0.18,My Way,456,176,0,2015
+Sam Hunt,0,0.38,0,0,pop,0.36,0.44,0.34,Take Your Time,446,144,0,2015
+Maroon 5,0,0.24,0,0,pop,0.24,0.28,0.2,Animals,506,101,0,2015
+Big Sean Featuring E-40,1,0.4,1,7,hip-hop,0.6,0.48,0.3,I Don't Fuck With You,1022,291,0,2015
+Rihanna,0,0.1,1,3,hip-hop,0.22,0.16,0.12,Bitch Better Have My Money,399,96,0,2015
+Rich Homie Quan,0,0.32,1,5,hip-hop,0.52,0.32,0.28,Flex,530,170,0,2015
+T-Wayne,1,0.36,1,7,hip-hop,0.58,0.46,0.26,Nasty Freestyle,385,207,0,2015
+"Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown",1,0.4,1,8,hip-hop,0.7,0.5,0.34,Only,799,341,0,2015
+Sia,0,0.24,0,0,pop,0.24,0.3,0.16,Elastic Heart,362,105,0,2015
+Demi Lovato,0,0.26,1,1,pop,0.28,0.34,0.16,Cool For The Summer,370,80,0,2015
+X Ambassadors,0,0.12,0,0,rock,0.1,0.16,0.16,Renegades,157,61,0,2015
+Usher Featuring Juicy J,1,0.28,1,5,hip-hop,0.44,0.42,0.26,I Don't Mind,704,198,0,2015
+Ariana Grande & The Weeknd,1,0.34,0,0,pop,0.36,0.38,0.24,Love Me Harder,460,93,0,2015
+Taylor Swift,0,0.22,0,0,pop,0.18,0.28,0.2,Wildest Dreams,374,115,0,2015
+Sam Smith,0,0.2,0,0,pop,0.24,0.24,0.16,Stay With Me,205,67,0,2015
+Fall Out Boy,0,0.1,0,0,pop,0.08,0.12,0.06,Uma Thurman,333,86,0,2015
+Selena Gomez,0,0.26,0,0,pop,0.2,0.34,0.18,The Heart Wants What It Wants,412,121,0,2015
+Little Big Town,0,0.24,0,0,country,0.24,0.26,0.16,Girl Crush,201,81,0,2015
+Trey Songz,0,0.2,1,1,pop,0.28,0.28,0.16,Slow Motion,204,91,0,2015
+One Direction,0,0.08,0,0,pop,0.1,0.14,0.06,Drag Me Down,398,80,0,2015
+Nicki Minaj Featuring Drake & Lil Wayne,1,0.42,1,7,hip-hop,0.54,0.38,0.22,Truffle Butter,538,257,0,2015
+Ariana Grande,0,0.32,0,0,pop,0.34,0.4,0.28,One Last Time,434,94,0,2015
+Nick Jonas,0,0.16,0,0,pop,0.2,0.22,0.12,Chains,384,66,0,2015
+Meek Mill Featuring Chris Brown & Nicki Minaj,1,0.3,1,6,hip-hop,0.56,0.4,0.24,All Eyes On You,592,166,0,2015
+Rae Sremmurd,0,0.28,1,3,hip-hop,0.38,0.32,0.18,No Type,436,138,0,2015
+Vance Joy,0,0.3,0,0,pop,0.24,0.3,0.22,Riptide,377,105,0,2015
+Jidenna Featuring Roman GianArthur,1,0.32,1,3,hip-hop,0.38,0.36,0.26,Classic Man,567,157,0,2015
+Elle King,0,0.38,0,0,pop,0.28,0.32,0.24,Ex's & Oh's,380,105,0,2015
+Meghan Trainor,0,0.38,0,0,pop,0.38,0.42,0.3,Dear Future Husband,402,136,0,2015
+Charlie Puth Featuring Meghan Trainor,1,0.22,0,0,pop,0.24,0.26,0.18,Marvin Gaye,382,87,0,2015
+Meghan Trainor Featuring John Legend,1,0.28,0,0,pop,0.26,0.36,0.28,Like I'm Gonna Lose You,354,113,0,2015
+Tove Lo,0,0.12,0,0,pop,0.1,0.1,0.12,Stay High (Habits Remix),323,43,0,2015
+James Newton Howard Featuring Jennifer Lawrence,1,0.02,0,0,pop,0.06,0.04,0.04,The Hanging Tree,289,70,0,2015
+"Jessie J, Ariana Grande & Nicki Minaj",1,0.4,0,0,pop,0.44,0.54,0.32,Bang Bang,623,177,0,2015
+Sam Smith,0,0.16,0,0,pop,0.18,0.22,0.14,Lay Me Down,251,103,0,2015
+I LOVE MAKONNEN Featuring Drake,1,0.3,1,1,hip-hop,0.42,0.34,0.22,Tuesday,356,175,0,2015
+iLoveMemphis,0,0.32,0,0,hip-hop,0.44,0.4,0.24,Hit The Quan,471,166,0,2015
+"Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz",1,0.36,1,4,hip-hop,0.44,0.34,0.28,Downtown,808,311,0,2015
+Sam Hunt,0,0.38,0,0,country,0.32,0.4,0.26,House Party,386,109,0,2015
+Chris Brown & Tyga,1,0.36,1,9,hip-hop,0.52,0.4,0.22,Ayo,651,222,0,2015
+Luke Bryan,0,0.34,0,0,country,0.28,0.26,0.18,Kick The Dust Up,360,123,0,2015
+Big Sean Featuring Drake,1,0.5,1,8,hip-hop,0.68,0.56,0.36,Blessings,860,337,0,2015
+George Ezra,0,0.18,0,0,pop,0.18,0.22,0.16,Budapest,308,78,0,2015
+Sia,0,0.26,0,0,pop,0.2,0.28,0.2,Chandelier,415,91,0,2015
+Kelly Clarkson,0,0.26,0,0,pop,0.18,0.28,0.22,Heartbeat Song,445,105,0,2015
+Ed Sheeran,0,0.28,1,2,pop,0.34,0.42,0.3,Don't,616,222,0,2015
+Ella Henderson,0,0.24,0,0,pop,0.3,0.36,0.3,Ghost,335,116,0,2015
+Alessia Cara,0,0.36,0,0,pop,0.34,0.38,0.24,Here,514,183,0,2015
+Mr. Probz,1,0.12,0,0,pop,0.12,0.16,0.08,Waves,142,60,0,2015
+Ne-Yo Featuring Juicy J,1,0.34,0,0,pop,0.42,0.38,0.26,She Knows,374,150,0,2015
+One Direction,0,0.16,0,0,pop,0.16,0.2,0.16,Night Changes,329,113,0,2015
+Drake,0,0.44,1,4,hip-hop,0.64,0.46,0.32,Back To Back (Freestyle),562,222,0,2015
+Calvin Harris & Disciples,1,0.08,0,0,pop,0.12,0.12,0.06,How Deep Is Your Love,351,53,0,2015
+Pharrell Williams,0,0.3,0,0,pop,0.32,0.36,0.22,Happy,257,99,0,2014
+Katy Perry Featuring Juicy J,1,0.4,0,0,pop,0.42,0.42,0.26,Dark Horse,496,177,0,2014
+John Legend,0,0.16,0,0,pop,0.22,0.18,0.2,All Of Me,391,110,0,2014
+Iggy Azalea Featuring Charli XCX,1,0.4,1,2,pop,0.42,0.4,0.2,Fancy,564,209,0,2014
+OneRepublic,0,0.24,0,0,pop,0.3,0.36,0.22,Counting Stars,588,103,0,2014
+Jason Derulo Featuring 2 Chainz,1,0.24,1,1,pop,0.3,0.28,0.16,Talk Dirty,380,132,0,2014
+MAGIC!,1,0.26,0,0,pop,0.24,0.32,0.18,Rude,409,109,0,2014
+Meghan Trainor,0,0.34,1,1,pop,0.38,0.4,0.22,All About That Bass,531,116,0,2014
+Ariana Grande Featuring Iggy Azalea,1,0.4,0,0,pop,0.4,0.5,0.32,Problem,573,142,0,2014
+Sam Smith,0,0.2,0,0,pop,0.24,0.24,0.16,Stay With Me,205,67,0,2014
+Pitbull Featuring Ke$ha,1,0.26,0,0,pop,0.24,0.26,0.18,Timber,514,113,0,2014
+Bastille,0,0.14,0,0,pop,0.06,0.14,0.1,Pompeii,320,86,0,2014
+Taylor Swift,0,0.3,0,0,pop,0.3,0.4,0.28,Shake It Off,635,113,0,2014
+Nico & Vinz,1,0.28,0,0,pop,0.3,0.32,0.26,Am I Wrong,451,101,0,2014
+DJ Snake & Lil Jon,1,0.02,0,0,hip-hop,0.0,0.02,0.0,Turn Down For What,127,17,0,2014
+Eminem Featuring Rihanna,1,0.26,1,2,hip-hop,0.38,0.34,0.28,The Monster,721,266,0,2014
+A Great Big World & Christina Aguilera,1,0.14,0,0,pop,0.16,0.18,0.14,Say Something,162,55,0,2014
+Lorde,0,0.14,0,0,pop,0.16,0.2,0.16,Team,341,134,0,2014
+Passenger,0,0.18,0,0,pop,0.18,0.22,0.2,Let Her Go,429,84,0,2014
+Lorde,0,0.26,0,0,pop,0.26,0.26,0.24,Royals,422,128,0,2014
+Idina Menzel,0,0.2,0,0,pop,0.22,0.28,0.2,Let It Go,299,134,0,2014
+Avicii,0,0.08,0,0,pop,0.12,0.18,0.12,Wake Me Up,219,90,0,2014
+Imagine Dragons,0,0.12,0,0,rock,0.14,0.16,0.16,Demons,338,108,0,2014
+One Direction,0,0.22,0,0,pop,0.2,0.3,0.22,Story Of My Life,377,112,0,2014
+Sia,0,0.26,0,0,hip-hop,0.2,0.28,0.2,Chandelier,415,91,0,2014
+Iggy Azalea Featuring Rita Ora,1,0.38,1,2,hip-hop,0.4,0.4,0.3,Black Widow,597,188,0,2014
+"Jessie J, Ariana Grande & Nicki Minaj",1,0.4,0,0,pop,0.44,0.54,0.32,Bang Bang,623,177,0,2014
+Disclosure Featuring Sam Smith,1,0.16,0,0,pop,0.16,0.24,0.1,Latch,356,86,0,2014
+Maroon 5,0,0.24,0,0,pop,0.22,0.3,0.18,Maps,463,90,0,2014
+Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga,1,0.42,1,7,pop,0.58,0.46,0.22,Loyal,492,205,0,2014
+American Authors,0,0.18,0,0,pop,0.1,0.18,0.14,Best Day Of My Life,323,93,0,2014
+Tove Lo,0,0.12,0,0,pop,0.1,0.1,0.12,Stay High (Habits Remix),323,43,0,2014
+Calvin Harris,0,0.06,0,0,pop,0.04,0.08,0.08,Summer,116,35,0,2014
+Charli XCX,0,0.22,0,0,pop,0.24,0.26,0.16,Boom Clap,395,87,0,2014
+Nicki Minaj,0,0.4,1,8,hip-hop,0.5,0.4,0.22,Anaconda,656,179,0,2014
+Ariana Grande Featuring Zedd,1,0.22,0,0,pop,0.26,0.36,0.2,Break Free,249,93,0,2014
+Enrique Iglesias Featuring Descemer Bueno & Gente de Zona,1,0.0,0,0,pop,0.0,0.04,0.02,Bailando,394,104,0,2014
+Ellie Goulding,0,0.3,0,0,pop,0.24,0.26,0.24,Burn,515,87,0,2014
+Jason Derulo Featuring Snoop Dogg,1,0.34,0,0,pop,0.3,0.44,0.28,Wiggle,448,155,0,2014
+Clean Bandit Featuring Jess Glynne,1,0.12,0,0,pop,0.12,0.16,0.08,Rather Be,430,100,0,2014
+Jeremih Featuring YG,1,0.36,1,7,hip-hop,0.48,0.42,0.22,Don't Tell Em,783,180,0,2014
+Kid Ink Featuring Chris Brown,0,0.44,1,2,hip-hop,0.5,0.44,0.32,Show Me,654,152,0,2014
+Miley Cyrus,0,0.18,0,0,pop,0.18,0.22,0.16,Wrecking Ball,346,95,0,2014
+Justin Timberlake,0,0.32,1,1,pop,0.42,0.44,0.26,Not A Bad Thing,552,134,0,2014
+Katy Perry,0,0.2,0,0,pop,0.14,0.22,0.16,Roar,467,97,0,2014
+Paramore,0,0.18,0,0,rock,0.2,0.2,0.28,Ain't It Fun,538,87,0,2014
+Aloe Blacc,0,0.12,0,0,pop,0.22,0.24,0.2,The Man,582,118,0,2014
+Florida Georgia Line Featuring Luke Bryan,1,0.42,0,0,country,0.3,0.38,0.22,This Is How We Roll,393,149,0,2014
+MKTO,0,0.36,0,0,pop,0.32,0.38,0.3,Classic,452,151,0,2014
+Coldplay,0,0.1,0,0,pop,0.1,0.14,0.06,A Sky Full Of Stars,174,47,0,2014
+Ed Sheeran,0,0.28,1,2,pop,0.34,0.42,0.3,Don't,616,222,0,2014
+Trey Songz,0,0.38,1,4,hip-hop,0.46,0.42,0.28,Na Na,739,110,0,2014
+Bobby Shmurda,0,0.16,1,7,hip-hop,0.32,0.2,0.14,Hot Nigga,450,208,0,2014
+Drake Featuring Majid Jordan,1,0.24,0,0,hip-hop,0.26,0.24,0.14,Hold On We're Going Home,351,61,0,2014
+Ed Sheeran,0,0.26,1,1,pop,0.36,0.42,0.26,Sing,605,174,0,2014
+Imagine Dragons,0,0.1,0,0,pop,0.06,0.1,0.04,Radioactive,295,68,0,2014
+YG Featuring Jeezy & Rich Homie Quan,1,0.32,1,6,hip-hop,0.46,0.36,0.26,My Nigga,763,173,0,2014
+Echosmith,0,0.16,0,0,pop,0.2,0.22,0.16,Cool Kids,319,79,0,2014
+Avicii,0,0.08,0,0,pop,0.06,0.08,0.14,Hey Brother,213,54,0,2014
+Jason Derulo,0,0.16,1,1,pop,0.2,0.16,0.1,Trumpets,353,72,0,2014
+Maroon 5,0,0.24,0,0,pop,0.24,0.28,0.2,Animals,506,101,0,2014
+Jason Aldean,0,0.34,0,0,country,0.28,0.32,0.16,Burnin' It Down,442,105,1,2014
+Luke Bryan,0,0.34,0,0,country,0.26,0.3,0.2,Play It Again,439,141,0,2014
+Tinashe Featuring ScHoolboy Q,1,0.36,1,4,hip-hop,0.44,0.38,0.26,2 On,595,167,0,2014
+Florida Georgia Line,0,0.16,0,0,country,0.1,0.14,0.06,Dirt,395,103,1,2014
+OneRepublic,0,0.28,0,0,pop,0.3,0.34,0.16,Love Runs Out,495,107,0,2014
+Brantley Gilbert,0,0.42,0,0,country,0.32,0.36,0.2,Bottoms Up,436,129,0,2014
+Becky G,0,0.32,0,0,pop,0.4,0.5,0.3,Shower,479,131,0,2014
+Rixton,0,0.2,0,0,pop,0.24,0.36,0.2,Me And My Broken Heart,461,86,0,2014
+Martin Garrix,0,0.0,0,0,pop,0.02,0.0,0.0,Animals,11,5,0,2014
+Rich Gang Featuring Young Thug & Rich Homie Quan,1,0.4,1,8,hip-hop,0.5,0.48,0.36,Lifestyle,813,279,0,2014
+Kenny Chesney,0,0.28,0,0,country,0.14,0.22,0.18,American Kids,360,145,1,2014
+Sara Bareilles,0,0.24,0,0,pop,0.26,0.34,0.18,Brave,393,116,0,2014
+The Neighbourhood,1,0.26,0,0,pop,0.3,0.32,0.2,Sweater Weather,333,137,0,2014
+Sam Hunt,0,0.38,0,0,country,0.32,0.32,0.22,Leave The Night On,482,145,0,2014
+Chris Brown Featuring Usher & Rick Ross,1,0.34,1,2,pop,0.46,0.4,0.28,New Flame,499,155,0,2014
+Michael Jackson & Justin Timberlake,0,0.22,0,0,pop,0.24,0.26,0.16,Love Never Felt So Good,349,55,0,2014
+Dierks Bentley,0,0.3,1,1,country,0.22,0.26,0.2,Drunk On A Plane,427,149,1,2014
+Katy Perry,0,0.32,0,0,pop,0.3,0.32,0.18,Birthday,388,97,0,2014
+Lady Antebellum,0,0.46,0,0,pop,0.28,0.36,0.3,Bartender,351,142,0,2014
+Naughty Boy Featuring Sam Smith,1,0.16,0,0,pop,0.16,0.26,0.2,La La La,600,83,0,2014
+Robin Thicke Featuring T.I. + Pharrell,1,0.38,1,2,pop,0.52,0.44,0.26,Blurred Lines,691,197,0,2014
+Lady Gaga Featuring R. Kelly,1,0.34,1,2,pop,0.36,0.4,0.22,Do What U Want,565,134,0,2014
+Shakira Featuring Rihanna,1,0.18,0,0,pop,0.18,0.26,0.14,Can't Remember To Forget You,372,101,0,2014
+5 Seconds Of Summer,0,0.26,0,0,pop,0.26,0.32,0.24,Amnesia,488,159,0,2014
+T.I. Featuring Iggy Azalea,1,0.32,1,9,pop,0.6,0.46,0.24,No Mediocre,801,246,0,2014
+KONGOS,0,0.12,0,0,rock,0.16,0.28,0.22,Come With Me Now,341,89,0,2014
+Lil Wayne Featuring Drake,1,0.32,1,6,hip-hop,0.66,0.4,0.28,Believe Me,803,325,0,2014
+"Mike WiLL Made-It Featuring Miley Cyrus, Wiz Khalifa & Juicy J",1,0.3,1,3,hip-hop,0.4,0.32,0.2,23,467,201,0,2014
+Jake Owen,0,0.22,0,0,country,0.16,0.2,0.1,Beachin',251,119,0,2014
+Macklemore & Ryan Lewis Featuring ScHoolboy Q & Hollis,1,0.32,1,7,hip-hop,0.56,0.32,0.24,White Walls,679,299,0,2014
+5 Seconds Of Summer,0,0.22,0,0,pop,0.22,0.3,0.2,She Looks So Perfect,347,107,0,2014
+Zedd Featuring Hayley Williams,1,0.16,0,0,pop,0.16,0.2,0.16,Stay The Night,308,73,0,2014
+ScHoolboy Q Featuring BJ The Chicago Kid,1,0.32,1,6,hip-hop,0.48,0.42,0.22,Studio,576,154,0,2014
+Drake,0,0.42,1,4,hip-hop,0.62,0.46,0.28,0 To 100 / The Catch Up,937,332,0,2014
+Lee Brice,0,0.28,0,0,country,0.24,0.3,0.16,I Don't Dance,235,70,0,2014
+Miranda Lambert Duet With Carrie Underwood,1,0.2,0,0,country,0.22,0.24,0.14,Somethin' Bad,321,106,0,2014
+Miley Cyrus,0,0.2,0,0,pop,0.18,0.26,0.24,Adore You,228,70,0,2014
+Macklemore & Ryan Lewis Featuring Wanz,1,0.4,1,7,hip-hop,0.46,0.34,0.28,Thrift Shop,678,272,0,2013
+Robin Thicke Featuring T.I. + Pharrell,1,0.38,1,2,pop,0.52,0.44,0.26,Blurred Lines,691,197,0,2013
+Imagine Dragons,0,0.1,0,0,pop,0.06,0.1,0.04,Radioactive,295,68,0,2013
+Baauer,0,0.0,0,0,hip-hop,0.0,0.02,0.02,Harlem Shake,39,10,0,2013
+Macklemore & Ryan Lewis Featuring Ray Dalton,1,0.4,1,1,hip-hop,0.44,0.48,0.24,Can't Hold Us,837,253,0,2013
+Justin Timberlake,0,0.3,0,0,pop,0.3,0.36,0.28,Mirrors,715,164,0,2013
+P!nk Featuring Nate Ruess,1,0.2,0,0,pop,0.26,0.28,0.2,Just Give Me A Reason,452,126,0,2013
+Bruno Mars,0,0.26,0,0,pop,0.26,0.32,0.24,When I Was Your Man,319,127,0,2013
+Florida Georgia Line Featuring Nelly,1,0.4,0,0,country,0.3,0.36,0.2,Cruise,422,135,0,2013
+Katy Perry,0,0.2,0,0,pop,0.14,0.22,0.16,Roar,467,97,0,2013
+Bruno Mars,0,0.24,0,0,pop,0.24,0.3,0.16,Locked Out Of Heaven,326,82,0,2013
+The Lumineers,1,0.18,0,0,rock,0.18,0.24,0.26,Ho Hey,236,85,0,2013
+Rihanna Featuring Mikky Ekko,1,0.26,0,0,pop,0.24,0.32,0.18,Stay,270,98,0,2013
+Daft Punk Featuring Pharrell Williams,1,0.12,0,0,pop,0.12,0.16,0.1,Get Lucky,635,74,0,2013
+Lorde,0,0.26,0,0,pop,0.26,0.26,0.24,Royals,422,128,0,2013
+Taylor Swift,0,0.26,0,0,pop,0.26,0.32,0.24,I Knew You Were Trouble,601,168,0,2013
+Miley Cyrus,0,0.28,0,0,pop,0.18,0.28,0.24,We Can't Stop,572,118,0,2013
+Miley Cyrus,0,0.18,0,0,pop,0.18,0.22,0.16,Wrecking Ball,346,95,0,2013
+Avicii,0,0.08,0,0,pop,0.12,0.18,0.12,Wake Me Up,219,90,0,2013
+Justin Timberlake Featuring JAY Z,1,0.42,1,3,pop,0.52,0.44,0.34,Suit & Tie,735,214,0,2013
+Jay Z Featuring Justin Timberlake,1,0.44,1,4,hip-hop,0.58,0.46,0.22,Holy Grail,624,254,0,2013
+will.i.am & Britney Spears,1,0.3,1,2,pop,0.24,0.24,0.22,Scream And Shout,598,105,0,2013
+Zedd Featuring Foxes,1,0.2,0,0,pop,0.18,0.22,0.16,Clarity,293,102,0,2013
+AWOLNATION,0,0.06,0,0,rock,0.06,0.08,0.12,Sail,161,47,0,2013
+Swedish House Mafia Featuring John Martin,1,0.1,0,0,pop,0.14,0.16,0.14,Don't You Worry Child,303,93,0,2013
+Rihanna,0,0.14,0,0,pop,0.1,0.18,0.08,Diamonds,383,68,1,2013
+Icona Pop Featuring Charli XCX,1,0.14,1,2,pop,0.14,0.12,0.1,I Love It,334,65,0,2013
+Capital Cities,0,0.08,0,0,pop,0.08,0.1,0.08,Safe And Sound,304,58,0,2013
+Bruno Mars,0,0.3,1,1,pop,0.28,0.34,0.2,Treasure,323,79,0,2013
+Ariana Grande Featuring Mac Miller,1,0.54,0,0,pop,0.52,0.58,0.38,The Way,786,164,0,2013
+Drake,0,0.22,1,4,hip-hop,0.4,0.32,0.2,Started From The Bottom,505,136,0,2013
+Selena Gomez,0,0.28,0,0,pop,0.28,0.3,0.2,Come & Get It,399,88,0,2013
+Drake Featuring Majid Jordan,1,0.24,0,0,hip-hop,0.26,0.24,0.14,Hold On We're Going Home,351,61,0,2013
+Maroon 5,0,0.22,0,0,pop,0.18,0.26,0.18,Daylight,304,96,0,2013
+Pitbull Featuring Christina Aguilera,1,0.36,0,0,pop,0.32,0.46,0.32,Feel This Moment,481,162,0,2013
+Lady Gaga,0,0.22,0,0,pop,0.24,0.26,0.16,Applause,545,99,0,2013
+Maroon 5,0,0.22,0,0,pop,0.26,0.32,0.2,One More Night,495,104,0,2013
+Lil Wayne Featuring Drake & Future,1,0.38,1,7,hip-hop,0.6,0.44,0.28,Bitches Love Me (Good Kush & Alcohol),642,174,0,2013
+Fall Out Boy,0,0.16,0,0,pop,0.18,0.2,0.22,My Songs Know What You Did In The Dark,433,103,0,2013
+"A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",1,0.4,1,7,hip-hop,0.68,0.5,0.38,Fuckin' Problems,888,241,0,2013
+Justin Bieber Featuring Nicki Minaj,1,0.42,0,0,pop,0.4,0.48,0.3,Beauty And A Beat,352,121,0,2013
+Macklemore & Ryan Lewis Featuring Mary Lambert,1,0.32,0,0,hip-hop,0.26,0.34,0.26,Same Love,696,275,0,2013
+Calvin Harris Featuring Florence Welch,1,0.1,0,0,pop,0.1,0.16,0.12,Sweet Nothing,249,84,0,2013
+Lana Del Rey & Cedric Gervais,1,0.28,0,0,pop,0.2,0.22,0.2,Summertime Sadness,327,98,0,2013
+Phillip Phillips,0,0.22,0,0,country,0.14,0.16,0.18,Home,191,68,0,2013
+Imagine Dragons,0,0.18,0,0,pop,0.18,0.22,0.14,It's Time,353,94,0,2013
+J. Cole Featuring Miguel,1,0.24,1,5,hip-hop,0.34,0.26,0.2,Power Trip,725,186,0,2013
+Alicia Keys Featuring Nicki Minaj,1,0.26,0,0,pop,0.24,0.26,0.24,Girl On Fire,289,89,0,2013
+Demi Lovato,0,0.36,0,0,hip-hop,0.36,0.4,0.2,Heart Attack,375,137,0,2013
+Maroon 5,0,0.28,0,0,pop,0.22,0.32,0.18,Love Somebody,355,80,0,2013
+Mumford & Sons,1,0.12,0,0,country,0.08,0.2,0.12,I Will Wait,229,83,0,2013
+P!nk,1,0.18,0,0,pop,0.16,0.22,0.1,Try,340,83,0,2013
+Darius Rucker,0,0.24,0,0,country,0.16,0.24,0.2,Wagon Wheel,382,139,0,2013
+PSY,0,0.16,0,0,pop,0.18,0.2,0.12,Gangnam Style,617,167,0,2013
+Calvin Harris Featuring Ellie Goulding,1,0.16,0,0,pop,0.2,0.26,0.18,I Need Your Love,336,103,0,2013
+Ke$ha,1,0.28,0,0,pop,0.26,0.34,0.24,Die Young,431,105,0,2013
+fun.,1,0.2,1,1,pop,0.26,0.28,0.24,Some Nights,517,178,1,2013
+Wale Featuring Tiara Thomas Or Rihanna,1,0.42,1,3,hip-hop,0.54,0.46,0.3,Bad,747,236,0,2013
+Blake Shelton Featuring Pistol Annies & Friends,1,0.52,1,1,country,0.4,0.44,0.28,Boys 'Round Here,603,161,0,2013
+Phillip Phillips,0,0.16,0,0,rock,0.16,0.26,0.26,"Gone, Gone, Gone",455,105,0,2013
+Imagine Dragons,0,0.12,0,0,rock,0.14,0.16,0.16,Demons,338,108,0,2013
+OneRepublic,0,0.24,0,0,pop,0.3,0.36,0.22,Counting Stars,588,103,0,2013
+Flo Rida,0,0.32,0,0,hip-hop,0.34,0.38,0.2,I Cry,581,194,0,2013
+Of Monsters And Men,0,0.28,0,0,pop,0.22,0.32,0.26,Little Talks,349,129,0,2013
+Jason Derulo,0,0.24,0,0,pop,0.24,0.28,0.22,The Other Side,417,105,0,2013
+Eminem,0,0.44,1,3,hip-hop,0.46,0.52,0.32,Berzerk,801,279,0,2013
+Kelly Clarkson,0,0.18,0,0,pop,0.2,0.28,0.16,Catch My Breath,424,103,0,2013
+Luke Bryan,0,0.38,0,0,country,0.26,0.28,0.16,Crash My Party,324,122,0,2013
+Rihanna,0,0.24,0,0,hip-hop,0.24,0.2,0.14,Pour It Up,445,99,0,2013
+Taylor Swift,0,0.3,0,0,pop,0.28,0.34,0.22,22,452,105,0,2013
+Hunter Hayes,0,0.5,0,0,country,0.44,0.58,0.32,I Want Crazy,486,143,0,2013
+Ylvis,0,0.1,0,0,pop,0.08,0.1,0.08,The Fox,376,130,0,2013
+One Direction,0,0.22,0,0,pop,0.2,0.28,0.16,Best Song Ever,404,88,0,2013
+Ed Sheeran,0,0.22,0,0,pop,0.24,0.28,0.24,The A Team,368,126,0,2013
+fun.,1,0.2,0,0,rock,0.16,0.3,0.22,Carry On,389,148,0,2013
+Tim McGraw With Taylor Swift,1,0.18,0,0,country,0.18,0.24,0.16,Highway Don't Care,414,100,0,2013
+Luke Bryan,0,0.4,0,0,country,0.34,0.38,0.18,That's My Kind Of Night,396,128,0,2013
+Kendrick Lamar,0,0.24,1,1,hip-hop,0.22,0.24,0.08,Swimming Pools (Drank),601,175,0,2013
+Blake Shelton,0,0.32,0,0,country,0.24,0.3,0.2,Sure Be Cool If You Did,377,111,0,2013
+Mariah Carey Featuring Miguel,1,0.36,1,2,pop,0.28,0.3,0.18,#Beautiful,335,93,0,2013
+Olly Murs Featuring Flo Rida,1,0.32,0,0,pop,0.34,0.42,0.26,Troublemaker,465,145,0,2013
+Ciara,0,0.36,0,0,pop,0.34,0.44,0.28,Body Party,385,99,0,2013
+Miguel,0,0.32,0,0,hip-hop,0.3,0.38,0.22,Adorn,266,82,0,2013
+The Script Featuring will.i.am,1,0.12,0,0,pop,0.1,0.12,0.14,Hall Of Fame,477,107,0,2013
+Ne-Yo,1,0.28,0,0,hip-hop,0.28,0.34,0.22,Let Me Love You (Until You Learn To Love Yourself),448,84,0,2013
+Rocko Featuring Future & Rick Ross,1,0.28,1,5,hip-hop,0.32,0.16,0.14,U.O.E.N.O,565,210,0,2013
+Miranda Lambert,0,0.32,0,0,country,0.24,0.28,0.22,Mama's Broken Heart,335,150,0,2013
+Thomas Rhett,0,0.36,0,0,country,0.22,0.32,0.18,It Goes Like This,308,84,0,2013
+Ace Hood Featuring Future & Rick Ross,1,0.2,1,6,hip-hop,0.4,0.22,0.16,Bugatti,677,258,0,2013
+Hunter Hayes,0,0.34,0,0,country,0.32,0.36,0.22,Wanted,281,86,0,2013
+Lady Antebellum,0,0.3,0,0,country,0.26,0.28,0.18,Downtown,379,129,0,2013
+Florida Georgia Line,0,0.24,0,0,country,0.16,0.2,0.16,Get Your Shine On,292,93,0,2013
+will.i.am Featuring Justin Bieber,1,0.2,0,0,pop,0.14,0.2,0.12,#thatPower,445,127,0,2013
+Sara Bareilles,0,0.24,0,0,pop,0.26,0.34,0.18,Brave,393,116,0,2013
+Passenger,0,0.18,0,0,pop,0.18,0.22,0.2,Let Her Go,429,84,0,2013
+Randy Houser,0,0.44,0,0,country,0.24,0.34,0.2,Runnin' Outta Moonlight,404,122,0,2013
+2 Chainz,0,0.22,1,6,hip-hop,0.36,0.2,0.1,I'm Different,456,156,0,2013
+Paramore,0,0.3,0,0,pop,0.28,0.32,0.22,Still Into You,365,102,0,2013
+Gotye Featuring Kimbra,1,0.22,0,0,pop,0.26,0.3,0.2,Somebody That I Used To Know,379,118,0,2012
+Carly Rae Jepsen,0,0.22,0,0,pop,0.26,0.28,0.16,Call Me Maybe,439,98,0,2012
+fun. Featuring Janelle Monae,1,0.2,0,0,rock,0.2,0.24,0.3,We Are Young,358,120,0,2012
+Maroon 5 Featuring Wiz Khalifa,0,0.36,1,3,pop,0.48,0.44,0.32,Payphone,703,199,0,2012
+Ellie Goulding,0,0.12,0,0,pop,0.14,0.22,0.14,Lights,335,82,0,2012
+The Wanted,0,0.14,0,0,pop,0.14,0.18,0.1,Glad You Came,335,67,0,2012
+Kelly Clarkson,0,0.2,0,0,pop,0.2,0.24,0.18,What Doesn't Kill You (Stronger),400,96,0,2012
+Rihanna Featuring Calvin Harris,1,0.18,0,0,pop,0.12,0.24,0.14,We Found Love,225,62,0,2012
+Nicki Minaj,0,0.26,1,2,pop,0.32,0.3,0.26,Starships,395,126,0,2012
+One Direction,0,0.3,0,0,pop,0.32,0.36,0.2,What Makes You Beautiful,480,100,0,2012
+Flo Rida Featuring Sia,1,0.4,0,0,pop,0.4,0.4,0.24,Wild Ones,552,196,0,2012
+Adele,0,0.12,0,0,pop,0.1,0.14,0.14,Set Fire To The Rain,351,117,0,2012
+LMFAO,0,0.22,0,0,hip-hop,0.26,0.28,0.18,Sexy And I Know It,356,125,0,2012
+fun.,1,0.2,1,1,pop,0.26,0.28,0.24,Some Nights,517,178,1,2012
+Katy Perry,0,0.1,0,0,pop,0.1,0.14,0.12,Wide Awake,333,112,0,2012
+Flo Rida,0,0.28,0,0,hip-hop,0.24,0.34,0.16,Good Feeling,557,170,0,2012
+Flo Rida,0,0.34,0,0,hip-hop,0.34,0.38,0.28,Whistle,520,142,0,2012
+Maroon 5,0,0.22,0,0,pop,0.26,0.32,0.2,One More Night,495,104,0,2012
+Train,0,0.28,0,0,pop,0.28,0.34,0.22,Drive By,429,128,0,2012
+Drake Featuring Lil Wayne,1,0.36,1,7,hip-hop,0.56,0.42,0.28,The Motto,600,234,0,2012
+Rihanna,0,0.14,0,0,pop,0.14,0.2,0.12,Where Have You Been,250,42,0,2012
+Neon Trees,0,0.16,1,1,rock,0.16,0.2,0.16,Everybody Talks,277,87,0,2012
+Drake Featuring Rihanna,1,0.36,0,0,pop,0.34,0.48,0.34,Take Care,541,173,0,2012
+David Guetta Featuring Sia,1,0.06,0,0,pop,0.06,0.12,0.06,Titanium,232,72,0,2012
+Jason Mraz,0,0.28,0,0,pop,0.26,0.34,0.2,I Won't Give Up,342,125,0,2012
+Bruno Mars,0,0.3,0,0,pop,0.3,0.32,0.2,It Will Rain,349,127,0,2012
+"Kanye West, Big Sean, Pusha T, 2 Chainz",1,0.4,1,4,hip-hop,0.48,0.44,0.3,Mercy,857,319,0,2012
+Justin Bieber,0,0.36,0,0,pop,0.54,0.44,0.3,Boyfriend,447,125,0,2012
+LMFAO Featuring Lauren Bennett & GoonRock,1,0.38,0,0,pop,0.32,0.36,0.26,Party Rock Anthem,436,139,0,2012
+Alex Clare,0,0.22,0,0,pop,0.26,0.28,0.22,Too Close,303,81,0,2012
+Katy Perry,0,0.18,0,0,pop,0.18,0.18,0.12,Part Of Me,425,97,0,2012
+Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,1,0.28,1,2,hip-hop,0.36,0.28,0.22,"Young, Wild & Free",465,216,0,2012
+Taylor Swift,0,0.28,0,0,pop,0.32,0.4,0.3,We Are Never Ever Getting Back Together,383,113,0,2012
+Justin Bieber Featuring Big Sean,1,0.32,0,0,pop,0.36,0.46,0.32,As Long As You Love Me,675,163,0,2012
+David Guetta Featuring Nicki Minaj,1,0.3,0,0,pop,0.28,0.38,0.24,Turn Me On,445,86,0,2012
+Maroon 5 Featuring Christina Aguilera,1,0.38,1,1,pop,0.36,0.44,0.22,Moves Like Jagger,482,123,0,2012
+P!nk,1,0.16,1,2,pop,0.22,0.28,0.2,Blow Me (One Last Kiss),671,145,1,2012
+Owl City & Carly Rae Jepsen,1,0.22,0,0,pop,0.22,0.26,0.2,Good Time,400,87,0,2012
+Demi Lovato,0,0.28,0,0,pop,0.3,0.38,0.28,Give Your Heart A Break,458,122,0,2012
+Jay Z Kanye West,1,0.34,1,5,hip-hop,0.46,0.38,0.3,Niggas In Paris,587,241,0,2012
+Katy Perry,0,0.16,0,0,pop,0.18,0.24,0.14,The One That Got Away,330,117,0,2012
+Calvin Harris,0,0.08,0,0,pop,0.06,0.1,0.04,Feel So Close,143,37,0,2012
+Adele,0,0.16,0,0,pop,0.16,0.22,0.18,Someone Like You,365,121,0,2012
+Usher,0,0.36,0,0,pop,0.38,0.48,0.24,Scream,451,108,0,2012
+Tyga,0,0.24,1,7,hip-hop,0.42,0.3,0.14,Rack City,327,141,0,2012
+Jessie J,0,0.3,0,0,pop,0.3,0.34,0.22,Domino,430,99,0,2012
+PSY,0,0.16,0,0,pop,0.18,0.2,0.12,Gangnam Style,617,167,0,2012
+Pitbull Featuring Chris Brown,1,0.34,0,0,pop,0.3,0.44,0.32,International Love,588,194,0,2012
+Phillip Phillips,0,0.22,0,0,country,0.14,0.16,0.18,Home,191,68,0,2012
+David Guetta Featuring Usher,1,0.1,0,0,pop,0.12,0.16,0.06,Without You,200,62,0,2012
+Gym Class Heroes Featuring Neon Hitch,1,0.22,1,1,pop,0.28,0.26,0.3,Ass Back Home,503,167,0,2012
+Hunter Hayes,0,0.34,0,0,country,0.32,0.36,0.22,Wanted,281,86,0,2012
+Luke Bryan,0,0.32,0,0,country,0.2,0.24,0.14,Drunk On You,322,121,0,2012
+2 Chainz Featuring Drake,1,0.28,1,7,hip-hop,0.54,0.4,0.22,No Lie,804,241,0,2012
+Cher Lloyd,0,0.42,0,0,pop,0.4,0.54,0.32,Want U Back,664,175,0,2012
+Chris Brown,0,0.08,0,0,hip-hop,0.12,0.16,0.06,Don't Wake Me Up,174,77,0,2012
+Big Sean Featuring Nicki Minaj,1,0.22,1,6,hip-hop,0.4,0.28,0.16,Dance (A$$),398,161,0,2012
+Eric Church,0,0.22,0,0,country,0.16,0.2,0.14,Springsteen,320,154,0,2012
+Karmin,0,0.34,0,0,pop,0.36,0.44,0.26,Brokenhearted,458,148,0,2012
+Gavin DeGraw,0,0.12,0,0,pop,0.12,0.16,0.06,Not Over You,354,116,0,2012
+Gym Class Heroes Featuring Adam Levine,1,0.36,0,0,hip-hop,0.36,0.42,0.3,Stereo Hearts,589,185,0,2012
+Pitbull,0,0.26,0,0,hip-hop,0.24,0.3,0.18,Back In Time,380,141,0,2012
+J. Cole,1,0.54,1,3,hip-hop,0.64,0.54,0.32,Work Out,762,191,0,2012
+Adele,0,0.2,0,0,pop,0.26,0.3,0.24,Rumour Has It,279,104,0,2012
+Calvin Harris Featuring Ne-Yo,1,0.12,0,0,pop,0.14,0.16,0.1,Let's Go,231,42,0,2012
+Carrie Underwood,0,0.38,0,0,pop,0.36,0.42,0.24,Good Girl,398,117,0,2012
+Little Big Town,0,0.18,0,0,country,0.12,0.14,0.08,Pontoon,254,104,0,2012
+The Lumineers,1,0.18,0,0,rock,0.18,0.24,0.26,Ho Hey,236,85,0,2012
+Coldplay,0,0.12,0,0,pop,0.14,0.18,0.12,Paradise,239,65,0,2012
+Carrie Underwood,0,0.04,0,0,country,0.02,0.02,0.02,Blown Away,267,88,1,2012
+Adele,0,0.14,1,1,pop,0.16,0.24,0.22,Rolling In The Deep,595,128,0,2012
+Usher,0,0.12,0,0,pop,0.16,0.2,0.14,Climax,327,92,0,2012
+Wiz Khalifa,0,0.36,1,7,hip-hop,0.54,0.4,0.28,"Work Hard, Play Hard",674,192,0,2012
+Ne-Yo,1,0.28,0,0,hip-hop,0.28,0.34,0.22,Let Me Love You (Until You Learn To Love Yourself),448,84,0,2012
+Nicki Minaj,0,0.34,1,1,pop,0.3,0.36,0.22,Pound The Alarm,325,100,0,2012
+Kenny Chesney,0,0.18,0,0,country,0.2,0.24,0.14,Come Over,277,87,0,2012
+Trey Songz,0,0.2,0,0,hip-hop,0.24,0.26,0.14,Heart Attack,414,108,0,2012
+Kirko Bangz,0,0.44,1,4,hip-hop,0.58,0.42,0.22,Drank In My Cup,500,182,0,2012
+Rihanna Featuring Chris Brown,1,0.26,1,2,pop,0.3,0.28,0.16,Birthday Cake,214,67,0,2012
+B.o.B,1,0.3,0,0,pop,0.32,0.36,0.26,So Good,547,191,0,2012
+Train,0,0.22,0,0,pop,0.22,0.28,0.14,50 Ways To Say Goodbye,414,131,0,2012
+Toby Keith,0,0.16,1,1,country,0.14,0.14,0.18,Red Solo Cup,334,129,0,2012
+Selena Gomez & The Scene,1,0.24,0,0,pop,0.2,0.26,0.14,Love You Like A Love Song,403,92,0,2012
+Chris Brown,0,0.22,0,0,pop,0.22,0.24,0.12,Turn Up The Music,642,67,0,2012
+Ke$ha,1,0.28,0,0,pop,0.26,0.34,0.24,Die Young,431,105,0,2012
+T-Pain Featuring Wiz Khalifa & Lily Allen,1,0.42,1,1,hip-hop,0.46,0.5,0.3,5 O'Clock,920,209,0,2012
+Christina Perri,0,0.12,0,0,pop,0.12,0.16,0.12,A Thousand Years,242,85,0,2012
+Jason Aldean,0,0.36,0,0,country,0.22,0.26,0.1,Take A Little Ride,352,136,0,2012
+Rihanna,0,0.26,1,1,pop,0.34,0.4,0.22,You Da One,509,100,0,2012
+Havana Brown Featuring Pitbull,1,0.16,0,0,pop,0.12,0.2,0.1,We Run The Night,329,81,0,2012
+Imagine Dragons,0,0.18,0,0,pop,0.18,0.22,0.14,It's Time,353,94,0,2012
+Ca$h Out,1,0.34,1,3,hip-hop,0.38,0.3,0.2,Cashin' Out,873,187,0,2012
+Luke Bryan,0,0.36,0,0,country,0.28,0.32,0.18,Don't Want This Night To End,378,118,0,2012
+Rihanna,0,0.14,0,0,pop,0.1,0.18,0.08,Diamonds,383,68,1,2012
+Lee Brice,0,0.2,0,0,country,0.26,0.28,0.18,Hard To Love,341,79,0,2012
+Kip Moore,0,0.28,0,0,country,0.22,0.24,0.16,Somethin' 'Bout A Truck,335,104,0,2012
+Miguel,0,0.32,0,0,hip-hop,0.3,0.38,0.22,Adorn,266,82,0,2012
+Jason Aldean,0,0.2,1,1,country,0.22,0.24,0.12,Fly Over States,250,153,0,2012
+Eli Young Band,0,0.26,0,0,country,0.16,0.18,0.08,Even If It Breaks Your Heart,222,94,0,2012
+Linkin Park,0,0.1,0,0,rock,0.08,0.1,0.1,Burn It Down,299,83,0,2012
